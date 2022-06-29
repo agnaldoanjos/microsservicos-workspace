@@ -1,0 +1,17 @@
+br\com\alura\microservice\fornecedor\model\Pedido.class
+br\com\alura\microservice\fornecedor\controller\InfoController.class
+br\com\alura\microservice\fornecedor\dto\ReservaDTO.class
+br\com\alura\microservice\fornecedor\dto\ItemDoPedidoDTO.class
+br\com\alura\microservice\fornecedor\model\PedidoItem.class
+br\com\alura\microservice\fornecedor\repository\ProdutoRepository.class
+br\com\alura\microservice\fornecedor\controller\ProdutoController.class
+br\com\alura\microservice\fornecedor\service\PedidoService.class
+br\com\alura\microservice\fornecedor\model\InfoFornecedor.class
+br\com\alura\microservice\fornecedor\model\PedidoStatus.class
+br\com\alura\microservice\fornecedor\service\InfoService.class
+br\com\alura\microservice\fornecedor\controller\PedidoController.class
+br\com\alura\microservice\fornecedor\model\Produto.class
+br\com\alura\microservice\fornecedor\repository\PedidoRepository.class
+br\com\alura\microservice\fornecedor\service\ProdutoService.class
+br\com\alura\microservice\fornecedor\FornecedorApplication.class
+br\com\alura\microservice\fornecedor\repository\InfoRepository.class

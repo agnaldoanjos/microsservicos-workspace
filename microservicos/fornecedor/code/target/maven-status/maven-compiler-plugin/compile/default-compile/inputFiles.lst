@@ -1,0 +1,17 @@
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\repository\PedidoRepository.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\model\PedidoStatus.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\repository\ProdutoRepository.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\dto\ItemDoPedidoDTO.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\model\Pedido.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\model\InfoFornecedor.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\controller\InfoController.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\controller\ProdutoController.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\service\InfoService.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\controller\PedidoController.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\FornecedorApplication.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\dto\ReservaDTO.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\repository\InfoRepository.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\service\PedidoService.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\service\ProdutoService.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\model\PedidoItem.java
+C:\git\repos\microsservicos-workspace\microservicos\fornecedor\code\src\main\java\br\com\alura\microservice\fornecedor\model\Produto.java

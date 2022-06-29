@@ -1,0 +1,12 @@
+spring:
+  h2:
+    console:
+      enabled: true
+      path: /h2-loja
+  datasource:
+    url: jdbc:h2:file:~/h2/loja
+    driverClassName: org.h2.Driver
+    username: sa
+  jpa:
+    hibernate:
+      ddl-auto: update
